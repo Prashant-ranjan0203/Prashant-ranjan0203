@@ -9,7 +9,7 @@
 - ⚙️ Building CI/CD pipelines (GitHub Actions / Jenkins)
 - ☁️ Experience with AWS (EC2, IAM, S3)
 - 🐧 Strong Linux & Bash scripting foundation
-- 📦 Learning Kubernetes deeply (Pods, Deployments, Services)
+- 📦 Building and managing Kubernetes workloads (Pods, Deployments, Services)
 
 ---
 
@@ -32,10 +32,9 @@
 
 ### 📌 Featured Projects
 
-- 🔹 Terraform EC2 + S3 provisioning
-- 🔹 CI/CD Pipeline automation
-- 🔹 Kubernetes deployment with rolling updates
-- 🔹 Linux monitoring & disk alert script
+- 🔹 [Terraform EC2 + S3 Provisioning](https://github.com/Prashant-ranjan0203/terraform-static-website)
+- 🔹 [AWS VPC + EC2 + Nginx Setup](https://github.com/Prashant-ranjan0203/aws-vpc-ec2-nginx)
+- 🔹 [K8s Prometheus Grafana Monitoring](https://github.com/Prashant-ranjan0203/k8s-prometheus-grafana-monitoring)
 
 ---
 
